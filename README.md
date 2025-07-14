@@ -1,2 +1,3 @@
-# Sports-PDF-OCR-NLP-Summarizer
-A lightweight Streamlit app that uses OCR and NLP techniques to extract, summarize, and highlight any sports-related PDF document. The app reads scanned and digital PDFs, performs intelligent content parsing, generates match summaries, and extracts highlights.
+# Universal Sports PDF Extractor
+
+Upload any sports match PDF to generate summaries and key highlights using NLP and OCR.
